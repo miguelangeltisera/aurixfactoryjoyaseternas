@@ -18,7 +18,7 @@ export default function Anillos() {
 
   const carouselImages = [
     { 
-      src: 'https://d2xsxph8kpxj0f.cloudfront.net/114671925/XnniQhCvmxAh7rFhGzMxhU/1772218628864_75bc89c8.png', 
+      src: '/Anillodediamante1.png', 
       alt: 'Anillo de Oro Clásico',
       title: 'Anillo Clásico',
       description: 'Anillo de oro 18 quilates con diamantes redondos. Diseño atemporal perfecto para cualquier ocasión. Acabado pulido espejo.'
