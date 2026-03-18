@@ -36,7 +36,7 @@ export default function Anillos() {
       description: 'Anillo de oro con diamantes baguette. Estilo contemporáneo con acabado espejo. Disponible en diferentes tamaños.'
     },
     { 
-      src: '/anillo-bagets-cruzado.jpg', 
+      src: '/anillodediamante3.png', 
       alt: 'Anillo con Bagets Cruzado',
       title: 'Anillo Bagets Cruzado',
       description: 'Anillo de oro con diamantes baguette cruzados. Diseño exclusivo y sofisticado. Personalización disponible.'
