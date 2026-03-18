@@ -30,7 +30,7 @@ export default function Anillos() {
       description: 'Anillo de oro rosado con diamantes baguette y redondos. Diseño moderno y elegante. Personalizable bajo pedido.'
     },
     { 
-      src: '/anillo-bagets.jpg', 
+      src: '/anillo-baget.jpg', 
       alt: 'Anillo con Bagets',
       title: 'Anillo Bagets',
       description: 'Anillo de oro con diamantes baguette. Estilo contemporáneo con acabado espejo. Disponible en diferentes tamaños.'
