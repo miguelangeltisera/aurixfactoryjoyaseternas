@@ -40,6 +40,13 @@ export default function Medallas() {
       alt: 'Medalla Conmemorativa',
       title: 'Medalla Conmemorativa',
       description: 'Medalla conmemorativa en oro. Perfecta para eventos especiales. Diseño exclusivo personalizado.'
+    },
+    // Nueva imagen añadida
+    {
+      src: '/medalladeagatha.png',
+      alt: 'Medalla de Agatha Oro 18k',
+      title: 'Medalla de Agatha',
+      description: 'Medalla de Agatha oro 18 k. Diseño religioso con acabado espejo. Marco de oro pulido. Cadena incluida.'
     }
   ];
 
