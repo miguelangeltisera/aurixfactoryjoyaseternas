@@ -18,7 +18,7 @@ export default function Anillos() {
 
   const carouselImages = [
     { 
-      src: '/Anillodediamente1.png', 
+      src: '/anillodediamante1.png',   // ← Corregido: minúsculas y sin typo (debe existir en public/)
       alt: 'Anillo de Oro Clásico',
       title: 'Anillo Clásico',
       description: 'Anillo de oro 18 quilates con diamantes redondos. Diseño atemporal perfecto para cualquier ocasión. Acabado pulido espejo.'
@@ -55,13 +55,13 @@ export default function Anillos() {
       description: 'Anillo de oro brillante con diamantes de talla brillante. Acabado impecable y máximo resplandor.'
     },
     { 
-      src: '/anillobrilante2.png', 
+      src: '/anillobrillante2.png',   // ← Corregido: doble 'l'
       alt: 'Anillo Brillante Dos',
       title: 'Anillo Brillante 2',
       description: 'Anillo de oro con diamantes brillantes. Diseño clásico y elegante, perfecto para el día a día.'
     },
     { 
-      src: '/anillobrilante3.png', 
+      src: '/anillobrillante3.png',   // ← Corregido: doble 'l'
       alt: 'Anillo Brillante Tres',
       title: 'Anillo Brillante 3',
       description: 'Anillo de oro blanco con diamantes brillantes. Sofisticación y estilo en una pieza única.'
