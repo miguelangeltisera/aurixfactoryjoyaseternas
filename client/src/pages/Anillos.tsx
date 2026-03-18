@@ -80,7 +80,7 @@ export default function Anillos() {
     }
   ];
 
-  const nextSlide = () => {
+const nextSlide = () => {
     setCurrentSlide((prev) => (prev + 1) % carouselImages.length);
     setSelectedSlide(null);
   };
