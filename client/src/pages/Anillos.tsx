@@ -40,6 +40,43 @@ export default function Anillos() {
       alt: 'Anillo con Bagets Cruzado',
       title: 'Anillo Bagets Cruzado',
       description: 'Anillo de oro con diamantes baguette cruzados. Diseño exclusivo y sofisticado. Personalización disponible.'
+    },
+    // Nuevas imágenes agregadas
+    { 
+      src: '/anillobaget4.png', 
+      alt: 'Anillo Baget Cuatro',
+      title: 'Anillo Baget 4',
+      description: 'Elegante anillo de oro con diamantes baguette. Diseño moderno y refinado, ideal para ocasiones especiales.'
+    },
+    { 
+      src: '/anillobrillante1.png', 
+      alt: 'Anillo Brillante Uno',
+      title: 'Anillo Brillante 1',
+      description: 'Anillo de oro brillante con diamantes de talla brillante. Acabado impecable y máximo resplandor.'
+    },
+    { 
+      src: '/anillobrilante2.png', 
+      alt: 'Anillo Brillante Dos',
+      title: 'Anillo Brillante 2',
+      description: 'Anillo de oro con diamantes brillantes. Diseño clásico y elegante, perfecto para el día a día.'
+    },
+    { 
+      src: '/anillobrilante3.png', 
+      alt: 'Anillo Brillante Tres',
+      title: 'Anillo Brillante 3',
+      description: 'Anillo de oro blanco con diamantes brillantes. Sofisticación y estilo en una pieza única.'
+    },
+    { 
+      src: '/anillobrillante4.png', 
+      alt: 'Anillo Brillante Cuatro',
+      title: 'Anillo Brillante 4',
+      description: 'Anillo de oro amarillo con diamantes brillantes. Un clásico renovado con acabado de lujo.'
+    },
+    { 
+      src: '/anillorubi.png', 
+      alt: 'Anillo con Rubí',
+      title: 'Anillo Rubí',
+      description: 'Anillo de oro con rubí central y diamantes. Una joya llena de color y elegancia.'
     }
   ];
 
